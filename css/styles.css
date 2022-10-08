@@ -204,7 +204,7 @@ nav{
 /* PRICING SECTION BEGINS */
 
 .pricing{
-    padding: 4rem 10rem;
+    padding: 4rem 0rem;
     background:linear-gradient(to top,#0471d7 ,#09b2f7);
     display: flex;
     flex-direction: column;
@@ -489,5 +489,19 @@ nav{
 
   }
   
+  @media screen and (max-width:1000px) {
 
-  
+    html{
+      font-size: 40%;
+    }
+
+  }
+
+
+  @media screen and (max-width:850px) {
+
+    html{
+      font-size: 30%;
+    }
+
+  }
