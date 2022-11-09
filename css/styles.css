@@ -178,11 +178,10 @@ nav{
 
 .card{
     width: 26%;
-    /* flex: 26%; */
-    /* width: 40rem; */
     background-color: #ffffff;
     padding: 3rem 3rem;
     border-radius: 2rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .card>img{
@@ -382,6 +381,7 @@ nav{
     width: 30%;
     background-color: #FBFBFB;
     border: 0.1rem solid #EAEAEB;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
 }
 
 .testimonial-active{
@@ -663,3 +663,5 @@ nav{
 
     } */
   }
+
+  
