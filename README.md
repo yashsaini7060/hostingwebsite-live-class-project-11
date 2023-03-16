@@ -10,7 +10,7 @@ Hi, I'm `Yash Kumar`, a web developer living in Delhi, India.
  - It took me around `2 hrs` to complete this project.
  <br />
 
-![Screenshot](/10.png)
+![Screenshot](/11.png)
 <br />
 
 ## Below are the take aways from this project:📖
